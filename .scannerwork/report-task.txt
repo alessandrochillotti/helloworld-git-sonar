@@ -1,0 +1,7 @@
+organization=alessandrochillotti
+projectKey=alessandrochillotti_helloworld-git-sonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18114
+dashboardUrl=https://sonarcloud.io/dashboard?id=alessandrochillotti_helloworld-git-sonar
+ceTaskId=AXgwbeLrQbDLSOznmo9_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgwbeLrQbDLSOznmo9_
